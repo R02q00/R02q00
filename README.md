@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Alain vincent
-- 👀 I’m interested in cumputer science
-- 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Bonjour, je suis Alain vincent !
 
-<!---
-R02q00/R02q00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis un jeune étudiant en Informatique à l'École Nationale d'Informatique (ENI) de Fianarantsoa**, passionné par les technologies et l'informatique. 
+
+## 🚀 Mes centres d'intérêt
+- **Développement Web** (Frontend & Backend)
+- **Développement Mobile** (Android, Flutter, etc.)
+
+## 💻 Technologies & Compétences
+- **Langages** : HTML, CSS, JavaScript, Python, Java, PHP, etc.
+- **Frameworks** : React, Vue.js, Laravel, Django, Flutter
+- **Outils** : Git, Docker, Linux, Wireshark, etc.
+- **Base de données** : MySQL, PostgreSQL, MongoDB
+
+## 🌱 Actuellement en apprentissage
+- Développement Full-Stack
+- 
+
+## 📫 Contact
+- **Email**: alain.vincent069@gmail.com
+
+
+N'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 😊

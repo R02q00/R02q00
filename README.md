@@ -7,7 +7,7 @@ Je suis un jeune étudiant en Informatique à l'École Nationale d'Informatique 
 - **Développement Mobile**
 
 ## 💻 Technologies & Compétences
-- **Langages** : HTML, CSS, JavaScript, Python, Java
+- **Langages** : HTML, CSS, JavaScript, Typescript, Python
 - **Frameworks** : React, Next.js, Django, Tailwindcss
 - **Base de données** : MySQL, PostgreSQL, SQL
 

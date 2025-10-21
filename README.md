@@ -1,8 +1,8 @@
-#👋Bonjour, je suis Alain vincent !
+# 👋Bonjour, je suis Alain vincent !
 
 Je suis un jeune étudiant en Informatique à l'École Nationale d'Informatique (ENI) de Fianarantsoa, Actuellement en Troisieme. Je m'interesse sur le developpement application web, mobile, la CyberSecurité et dans la l'Administration Syteme et Reseaux. 
 
-###🚀 Mes centres d'intérêt
+### 🚀 Mes centres d'intérêt
 - **Développement Web** (Frontend & Backend)
 - **Développement Mobile**
 

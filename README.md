@@ -13,9 +13,10 @@ Etudiant en ingénierie informatique au sein de l'École Nationale d'Informatiqu
 
 ### Actuellement en apprentissage
 - Développement Full-Stack
+- DevOps
 
 ### Contact
-- **Email**: alain.vincent069@gmail.com
+- **Email**: alainvincent.razafimandimby@gmail.com
 - **Site web**:[alain vincent](https://alain-vincent.netlify.app/)
 - **WhatApp**: +261 38 08 096 99
 

@@ -1,22 +1,22 @@
-# 👋Bonjour, je suis Alain vincent !
+# 👋 Hi, I'm Alain Vincent!
 
-Etudiant en ingénierie informatique au sein de l'École Nationale d'Informatique (ENI) de Fianarantsoa, Actuellement en Master I. Je m'interesse sur le developpement application web, mobile, la CyberSecurité et dans la l'Administration Syteme et Reseaux. 
+Computer Engineering student at the École Nationale d'Informatique (ENI) in Fianarantsoa, currently in my first year of a Master's degree. I'm interested in web and mobile application development, cybersecurity, and systems/network administration.
 
-### Je develope mes competences sur:
-- **Développement Web** (Frontend & Backend)
-- **Développement Mobile**
+### I'm building my skills in:
+- **Web Development** (Frontend & Backend)
+- **Mobile Development**
 - **DevOps**
-- **Machine learning**
-- **DSA**
+- **Machine Learning**
+- **Data Structures & Algorithms (DSA)**
 
-### Technologies & Compétences
-- **Langages** : JavaScript, Typescript, Python
-- **Frameworks** : React, Next.js, Fastapi, Django
-- **Base de données** : MySQL, PostgreSQL, SQL
-
+### Technologies & Skills
+- **Programming language** : JavaScript, Typescript, Python
+- **Frameworks** : React, Next.js, Express.js, Nest.js ,Fastapi, Django
+- **Database** : MySQL, PostgreSQL, SQL
+  
 ### Contact
 - **Email**: alainvincent.razafimandimby@gmail.com
-- **Site web**:[alain vincent](https://alain-vincent.netlify.app/)
-- **WhatApp**: +261 38 08 096 99
+- **Website**: [Alain Vincent](https://alain-vincent.netlify.app/)
+- **WhatsApp**: +261 38 08 096 99
 
-N'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 😊
+Feel free to explore my projects and reach out if you'd like to collaborate!

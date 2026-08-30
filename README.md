@@ -7,16 +7,18 @@ Computer Engineering student at the École Nationale d'Informatique (ENI) in Fia
 - **Mobile Development**
 - **DevOps**
 - **Machine Learning**
-- **Data Structures & Algorithms (DSA)**
+- **Data Structures & Algorithms**
 
 ### Technologies & Skills
 - **Programming language** : JavaScript, Typescript, Python
-- **Frameworks** : React, Next.js, Express.js, Nest.js ,Fastapi, Django
+- **Frontend** : React.js, Next.js, HTML, CSS
+- **Backend** : Express.js, Nest.js , Fastapi
+- **DevOps** : Docker, CI/CD
 - **Database** : MySQL, PostgreSQL, SQL
   
 ### Contact
 - **Email**: alainvincent.razafimandimby@gmail.com
-- **Website**: [Alain Vincent](https://alain-vincent.netlify.app/)
+- **Portfolio**: [Alain Vincent](https://alain-vincent.netlify.app/)
 - **WhatsApp**: +261 38 08 096 99
 
 Feel free to explore my projects and reach out if you'd like to collaborate!
